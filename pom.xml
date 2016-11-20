@@ -4,7 +4,7 @@
 
   <groupId>core</groupId>
   <artifactId>Title_Validation_CSV</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.1</version>
   <packaging>jar</packaging>
 
   <name>Title_Validation_CSV</name>
